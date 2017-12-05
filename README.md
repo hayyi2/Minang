@@ -23,11 +23,10 @@
 		[+] dibatal sistem 
 		[+] bayar reservasi
 		[+] Cetak bukti
-[ ] 14. List Reservasi
-[ ] 15. Pembayaran
-[ ] 16. List Pembayaran
-		[ ] Edit Status
-[ ] 17. Laporan
+[+] 14. List Reservasi
+[+] 15. Pembayaran
+		[+] Edit Status
+[+] 16. Laporan
 
 #cara install
 
