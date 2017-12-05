@@ -1,0 +1,13 @@
+img{
+	max-width: 100%;
+	height: auto;
+}
+.hide{
+	display: none;
+}
+.input-group{
+	margin-top: 5px;
+}
+.input-group:first-child{
+	margin-top: 0;
+}
