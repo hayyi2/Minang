@@ -29,7 +29,7 @@ Sistem reservasi restoran minang.
 &emsp;&emsp; Cetak bukti  
 14. List Reservasi
 15. Pembayaran
-16. List Pembayaran
+16. List Pembayaran  
 &emsp;&emsp; Edit Status  
 17. Laporan
 
