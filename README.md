@@ -18,7 +18,7 @@ Sistem reservasi restoran minang.
 12. Setting
 13. Reservasi  
 &emsp;&emsp; Pesan menu  
-&emsp;&emsp; edit jumlah 
+&emsp;&emsp; edit jumlah  
 &emsp;&emsp; hapus pesnanan  
 &emsp;&emsp; pesan tempat  
 &emsp;&emsp; hapus tempat  
