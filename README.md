@@ -1,4 +1,8 @@
-#List Kerjaan
+# Minang #
+
+Sistem reservasi restoran minang.
+
+### List Kerjaan ###
 
 1. CRUD Admin
 2. CRUD Member
@@ -13,23 +17,23 @@
 11. View Makanan dan Minuman
 12. Setting
 13. Reservasi
-	Pesan menu 
-	edit jumlah
-	hapus pesnanan 
-	pesan tempat
-	hapus tempat
-	ubah jadwal 
-	batal reservasi 
-	dibatal sistem 
-	bayar reservasi
-	Cetak bukti
+&emsp;&emsp; Pesan menu 
+&emsp;&emsp; edit jumlah
+&emsp;&emsp; hapus pesnanan 
+&emsp;&emsp; pesan tempat
+&emsp;&emsp; hapus tempat
+&emsp;&emsp; ubah jadwal 
+&emsp;&emsp; batal reservasi 
+&emsp;&emsp; dibatal sistem 
+&emsp;&emsp; bayar reservasi
+&emsp;&emsp; Cetak bukti
 14. List Reservasi
 15. Pembayaran
 16. List Pembayaran
-	Edit Status
+&emsp;&emsp; Edit Status
 17. Laporan
 
-#cara install
+### cara install ###
 
 1. Berdoa hehe
 2. Copy project ke server
